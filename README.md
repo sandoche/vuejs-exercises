@@ -1,5 +1,7 @@
 # learn-vue
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38415176-2f3e-4d9a-b58e-324e01fc47a0/deploy-status)](https://app.netlify.com/sites/vuejs-exercises/deploys)
+
 ## Project setup
 ```
 yarn install
